@@ -1,1 +1,1 @@
-# Password_Manager
+This project is a password manager application designed for individuals and businesses to securely create, store, access, and manage their credentials in one centralized location. Users can customize their passwords by selecting the desired number of digits, letters, symbols, and numbers. The password manager ensures the security of your credentials, eliminating the need for you to remember complex passwords.
